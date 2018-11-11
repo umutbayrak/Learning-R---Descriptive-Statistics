@@ -14,7 +14,7 @@ Flanders and at Ghent University.
 While in many countries, Ph.D. students must pay a substantial registration fee for the
 training they receive, here they are for the large part not only paid living expenses but an
 actual full salary. For governments and policy makers who thus support the ph.d. students
-financially, this begs the question as to how well the current system works, is it (cost)eective?
+financially, this begs the question as to how well the current system works, is it (cost)effective?
 Against this background, SOOI, an Interuniversity consortium grant was awarded by the
 Flemish government. In the context of SOOI, Ghent university focused on studying the
 trajectory of Ph.D.s, doctoral careers and the mobility of researchers.
